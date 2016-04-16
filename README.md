@@ -1,4 +1,3 @@
 # ACA Marketplace
 
-# scripts for cleaning and formatting the crosswalk files
-# prep for Bayeshack 
+This repo containes scripts for cleaning and formatting the crosswalk files in prep for Bayeshack 
